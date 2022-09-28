@@ -13,4 +13,4 @@
 
 ## `지옥에서 온 버전 관리 프로그램`을 말이죠!
 
-<img src="GitBashTutorials\images\haha.png" alt="funny piture">
+![funny piture]("GitBashTutorials\images\haha.png")

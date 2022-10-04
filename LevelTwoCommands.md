@@ -1,4 +1,4 @@
-ㅠ# Level 2. GitBash명령어들
+# Level 2. GitBash명령어들
 
 ## GitBash의 명령어들을 배워봅시다.
 

@@ -25,7 +25,7 @@
 
   </details></br>
 
-  <!-- details에 이미지를 넣고 싶다면 엔터치고 이미지 코드 위 아래에 공백 필요-->
+  <!-- details에 이미지를 넣고 싶다면, 이미지 코드 위 아래에 공백 필요-->
 
 - `history`를 입력하고 엔터를 누릅니다. 기존의 입력한 코드들을 출력해줍니다.</br>![LsImage](./images/LevelTwo/history.png)
 
@@ -74,11 +74,21 @@
 
 ![HTTPCloneImage](./images/LevelTwo/httpclone.png)
 
-  <p> 2 > 경로확인 ```pwd```, 경로이동 ```cd git```</p>
-  <p> 3 > `git clone https://github.com/controlCVS/GitBashTutorials.git` 주소는 개인마다 다릅니다.</p>
-  <p> 4 > `cd GitBashTutorials` 폴더명은 개인마다 다릅니다, `ls`, `ls -a`</p>
-  <p> 5 > `pwd`로 경로 확인 `rm GitBashTutorials` `rm -rf`는 항상 신중하고 확실한 순간에만 사용합니다.</p>
+  <p> 2 >
+  
+  경로확인 `pwd`
+  경로이동 `cd git`</p>
+  <p> 3 > </br>
+  `git clone https://github.com/controlCVS/GitBashTutorials.git` 주소는 개인마다 다릅니다.</p>
+  <p> 4 > </br>
+
+`cd GitBashTutorials` 폴더명은 개인마다 다릅니다, `ls`, `ls -a`로 확인 가능</p>
+
+  <p> 5 > </br>
+  
+  `pwd`로 경로 확인 `rm GitBashTutorials` `rm -rf`는 항상 신중하고 확실한 순간에만 사용합니다.</p>
 
   </details></br>
+<!-- details에 코드를 넣고 싶다면, 코드 위 아래에 공백 필요-->
 
 # 'GitBash' 명령어 끝 Level Up!

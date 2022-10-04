@@ -18,7 +18,7 @@
 
 - `cd 폴더명`을 입력하면 '폴더명'으로 이동합니다. 인접 폴더로 이동하므로 2단계 위(아래)에 있는 폴더로 이동은 불가능합니다.
   </br>위에서 만든 'git'폴더로 이동해 봅시다.
-  <details><summary> 코드 확인하기 </summary>
+  <details><summary> 코드 확인하기(CLICK!) </summary>
   <p>`cd git` 입력 후 엔터를 누릅니다. 입력창 위에 '~/git'이 보이면 성공!</p>
 
   ![CDImage](./images/LevelTwo/cd.png)
@@ -31,7 +31,7 @@
 
 - `history`안에 있는 코드를 불러와 봅시다. `!123`를 입력하면 123에 해당하는 코드를 불러와 실행합니다.
   </br>가장 최근에 입력했던 `ls`코드를 불러와 봅시다.
-  <details><summary> 코드 확인하기 </summary>
+  <details><summary> 코드 확인하기(CLICK!) </summary>
   <p>`!352` 입력 후 엔터를 누릅니다. 개인마다 번호가 다릅니다.</p>
 
   ![HistoryLsImage](./images/LevelTwo/historyls.png)
@@ -40,7 +40,7 @@
 
 - `mkdir 폴더명`으로 '폴더명'에 해당하는 하위 폴더를 생성합니다.(mkdir = make direction의 약자)
   </br>'git'아래에 'practice'폴더를 만들어 봅시다. 그리고 그 폴더로 이동해 봅시다.
-  <details><summary> 코드 확인하기 </summary>
+  <details><summary> 코드 확인하기(CLICK!) </summary>
   <p>`mldir practice`, `cd practice` 입력 후 엔터를 누릅니다. 입력창 위에 '~/git/practice'이 보이면 성공!</p>
 
   ![MkdirImage](./images/LevelTwo/mkdir.png)
@@ -52,7 +52,7 @@
 - 'practice'폴더를 삭제해 봅시다. `rm practice`로 삭제가 가능합니다. </br>단, 삭제 폴더의 상위 폴더에서 삭제해야 합니다. 지금은 상위 폴더 상태이므로 그대로 진행합니다.
 
 - 삭제가 불가능하면 강제로 권한을 주어 삭제가 가능합니다. 다만 해당 폴더안에 내용을 모두 삭제하므로 반드시 확인 후 삭제해야 합니다.
-  <details><summary> 코드 확인하기 </summary>
+  <details><summary> 코드 확인하기(CLICK!) </summary>
   <p>`rm -rf 폴더명` 입력 후 엔터를 누릅니다. 반드시 반드시 확인 후 삭제해야  합니다.</p>
 
   ![rmrfImage](./images/LevelTwo/rmrf.png)
@@ -69,7 +69,7 @@
 
 ## 실습정답지
 
-<details><summary> 실습 정답 확인하기 </summary>
+<details><summary> 실습 정답 확인하기(CLICK!) </summary>
   <p> 1 > 이미지 참고</p>
 
 ![HTTPCloneImage](./images/LevelTwo/httpclone.png)
